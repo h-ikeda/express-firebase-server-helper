@@ -1,0 +1,36 @@
+{
+  "name": "express-firebase-server-helper",
+  "version": "0.0.1",
+  "description": "An express middleware which helps you to control firebase-server via get/post access.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/h-ikeda/express-firebase-server-helper.git"
+  },
+  "keywords": [
+    "webpack",
+    "dev",
+    "server",
+    "express",
+    "firebase",
+    "server",
+    "port"
+  ],
+  "author": "Hiroki IKEDA",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/h-ikeda/express-firebase-server-helper/issues"
+  },
+  "homepage": "https://github.com/h-ikeda/express-firebase-server-helper#readme",
+  "dependencies": {
+    "firebase-server": "^0.10.0",
+    "portscanner": "^2.1.1"
+  },
+  "devDependencies": {
+    "express": "^4.15.2",
+    "superagent": "^3.5.2"
+  }
+}
