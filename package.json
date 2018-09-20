@@ -26,7 +26,7 @@
   },
   "homepage": "https://github.com/h-ikeda/express-firebase-server-helper#readme",
   "dependencies": {
-    "firebase-server": "^0.10.0",
+    "firebase-server": "^1.0.0",
     "portscanner": "^2.1.1"
   },
   "devDependencies": {
