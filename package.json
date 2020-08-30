@@ -31,6 +31,6 @@
   },
   "devDependencies": {
     "express": "^4.15.2",
-    "superagent": "^5.0.2"
+    "superagent": "^6.1.0"
   }
 }
